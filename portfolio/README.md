@@ -9,9 +9,9 @@ So I have built my site using react.js as a front end, node.js as a back-end, an
 Please import the databases after cloning this repo.
 
 `````````````````````````````````````
-git clone https://github.com/anshumanpattnaik/reactjs-portfolio-mern-website.git
+git clone https://github.com/Devaraj6/portfolio/tree/main/portfolio.git
 
-cd reactjs-portfolio-mern-website/databases
+cd portfolio/databases
 
 mongoimport --uri "mongodb://127.0.0.1:27017/portfolio" --collection skills --jsonArray --file skills.json
 mongoimport --uri "mongodb://127.0.0.1:27017/portfolio" --collection projects --jsonArray --file projects.json
@@ -20,7 +20,7 @@ mongoimport --uri "mongodb://127.0.0.1:27017/portfolio" --collection blogs --jso
 
 ### Installation
 ``````````````````````````````````````
-cd reactjs-portfolio-mern-website
+cd portfolio
 
 npm install
 npm run start
