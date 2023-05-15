@@ -34,5 +34,5 @@ Open http://localhost:9002 to view it in the browser.
 
 ### Website link 
 
-[link](https://jsmasterypro.com/) 
+[portfolio](https://devaraj6.github.io/Portfolio6/#work) 
 
